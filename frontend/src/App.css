@@ -1,0 +1,12 @@
+.navbar-nav{
+  justify-content: space-around;
+  width: 400px;
+  position: relative;
+  left: 250px;
+}
+.navbar-nav .nav-item:hover{
+  border-bottom: 1px solid black;
+}
+.root{
+  background-color: yellowgreen;
+}
